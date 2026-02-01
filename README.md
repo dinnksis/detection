@@ -28,7 +28,7 @@ recall: 0.85 (полнота)
 
 
 **примеры**:
-![example](examples/pr_1.jpg)
+![example](example/pr_1.jpg)
 
 
 **code**:
