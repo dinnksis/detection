@@ -1,0 +1,14 @@
+path: c:\Users\Professional\detection\data\raw
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['raccoon']
+
+roboflow:
+  workspace: roboflow-gw7yv
+  project: raccoon
+  version: 38
+  license: MIT
+  url: https://universe.roboflow.com/roboflow-gw7yv/raccoon/dataset/38
